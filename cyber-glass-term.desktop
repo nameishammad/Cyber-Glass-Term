@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Cyber Glass Term
+GenericName=Terminal Emulator
+Comment=Modern cyberpunk terminal emulator
+Exec=cyber-glass-term
+Icon=cyber-glass-term
+Terminal=false
+Categories=System;TerminalEmulator;
+StartupNotify=true
+Keywords=terminal;shell;console;
